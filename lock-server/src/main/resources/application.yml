@@ -1,0 +1,14 @@
+server:
+    port: 9909
+spring:
+  redis:
+      hostName: 127.0.0.1
+      password: 123456
+      pool:
+          maxActive: 8
+          maxIdle: 8
+          maxWait: -1
+          minIdle: 0
+      port: 6379
+      timeout: 0
+      database: 0
