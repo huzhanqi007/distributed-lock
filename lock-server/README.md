@@ -6,7 +6,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-redis</artifactId>
         <version>1.4.5.RELEASE</version>
-     dependency>
+     </dependency>
 ```
 ###2. 创建连接池
     RedisConfig
